@@ -31,3 +31,11 @@ Used brute force — nested loops checking each pair `(i, j)`.
 **Complexity:**  
 - Time: O(n²)  
 - Space: O(1)
+DAY 2📘 What I Learned Today
+
+What Java is and why it’s platform-independent
+
+The difference between JVM, JRE, and JDK
+Understood how Java code executes (Compile → Bytecode → JVM)
+
+wrote first program
