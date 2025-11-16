@@ -42,3 +42,9 @@ The difference between JVM, JRE, and JDK
 Understood how Java code executes (Compile → Bytecode → JVM)
 
 wrote first program
+
+Day 3 : Learned Java Variables, Data Types, Type Casting, and Scanner Input.
+Added practice programs for user input and data handling.
+#100DaysOfCode #JavaLearningJourney
+
+
